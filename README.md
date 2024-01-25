@@ -1,4 +1,3 @@
-![0_7Q3yvSIv_t0ioJ-Z](https://github.com/Saravanaraaj/Saravanaraaj/assets/119478382/78dba174-a6d6-4206-b555-7b794cc61144)[![MasterHead](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
 
 <h1 align="center">Hi 👋, I'm SARAVANARAAJ K</h1>
 <h3 align="center">A passionate Engineering Student pursuing my B.E - Electrical and Electronics Engineering.</h3>
