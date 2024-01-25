@@ -1,7 +1,7 @@
-
+[!MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fretool.com%2Fblog%2Fgotchas-git-github-api&psig=AOvVaw1fAsE7lcOVgZcLLe3XiguE&ust=1706277333910000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiwhdHY-IMDFQAAAAAdAAAAABAY)
 <h1 align="center">Hi 👋, I'm SARAVANARAAJ K</h1>
 <h3 align="center">A passionate Engineering Student pursuing my B.E - Electrical and Electronics Engineering.</h3>
-<img align="right" alt="coding" width="400"  src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelp.cloudsmith.io%2Fdocs%2Fintegrating-with-github-actions&psig=AOvVaw2QdtRLEY3cLTTIofM9OOJB&ust=1706275545307000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCD-vLR-IMDFQAAAAAdAAAAABAD" /> </p>
 
 - 🌱 I’m currently learning **web developement**
