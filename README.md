@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SARAVANARAAJ K</h1>
 <h3 align="center">A passionate Engineering Student pursuing my B.E - Electrical and Electronics Engineering.</h3>
 <img align="right" alt="coding" width="400"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-<p align="left"> <img src="https://st2.depositphotos.com/3126965/10152/v/450/depositphotos_101526100-stock-illustration-young-programmer-coding-a-new.jpg" /> </p>
+
 
 - 🌱 I’m currently learning **web developement**
 
