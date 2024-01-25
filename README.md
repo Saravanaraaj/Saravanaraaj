@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm SARAVANARAAJ K</h1>
 <h3 align="center">A passionate Engineering Student pursuing my B.E - Electrical and Electronics Engineering.</h3>
-<img align="right" alt="coding" width="400"  src="![0_7Q3yvSIv_t0ioJ-Z](https://github.com/Saravanaraaj/Saravanaraaj/assets/119478382/27a26866-e669-47d1-acd0-8d50be73800b)
-">
+<img align="right" alt="coding" width="400"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3wBs0LR2nrqPxSCO3lk6KB&ust=1706264590177000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD6vYyp-IMDFQAAAAAdAAAAABAD">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanaraaj&label=Profile%20views&color=0e75b6&style=flat" alt="saravanaraaj" /> </p>
 
 - 🌱 I’m currently learning **web developement**
