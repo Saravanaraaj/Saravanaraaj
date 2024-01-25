@@ -1,8 +1,9 @@
-[![MasterHead](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
+![0_7Q3yvSIv_t0ioJ-Z](https://github.com/Saravanaraaj/Saravanaraaj/assets/119478382/78dba174-a6d6-4206-b555-7b794cc61144)[![MasterHead](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
 
 <h1 align="center">Hi 👋, I'm SARAVANARAAJ K</h1>
 <h3 align="center">A passionate Engineering Student pursuing my B.E - Electrical and Electronics Engineering.</h3>
-<img align="right" alt="coding" width="400"  src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400"  src="![0_7Q3yvSIv_t0ioJ-Z](https://github.com/Saravanaraaj/Saravanaraaj/assets/119478382/27a26866-e669-47d1-acd0-8d50be73800b)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanaraaj&label=Profile%20views&color=0e75b6&style=flat" alt="saravanaraaj" /> </p>
 
 - 🌱 I’m currently learning **web developement**
